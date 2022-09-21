@@ -25,7 +25,7 @@ const stations = [
     src: "http://player.iranseda.ir/live-player/?VALID=TRUE&CH=509"
   },{
     title: "999 AM - Радио России",
-    src: "http://89.238.227.6:8000/;"
+    src: "https://str1.pcradio.ru/radiorus_ru-med?n=231223"
   },{
     title: "1026 AM - Иран  IRIB Radio Tabriz",
     src: "http://player.iranseda.ir/live-player/?VALID=TRUE&CH=508"
