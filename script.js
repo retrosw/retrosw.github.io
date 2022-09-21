@@ -1,7 +1,7 @@
 const stations = [
   {
     title: "531 AM - Radio Romania",
-    src: "http://89.238.227.6:8000/;"
+    src: "http://stream2.srr.ro:8062/;stream/1"
   },{
     title: "558 AM - IRIB Radio Iran",
     src: "http://radio.iranseda.ir/live/?VALID=TRUE&ch=50"
